@@ -54,7 +54,7 @@ open class EditingStack {
     }
     
     private let queue = DispatchQueue(
-        label: "me.muukii.PixelEngine",
+        label: "com.insomniumlabs.PixioEngine",
         qos: .default,
         attributes: []
     )
