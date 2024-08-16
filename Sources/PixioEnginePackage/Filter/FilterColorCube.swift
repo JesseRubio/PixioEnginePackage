@@ -8,7 +8,7 @@ public struct PreviewFilterColorCube : Equatable {
     
     private enum Static {
         static let ciContext = CIContext(options: [.useSoftwareRenderer : false])
-        static let heatingQueue = DispatchQueue.init(label: "me.muukii.PixelEngine.Preheat", attributes: [.concurrent])
+        static let heatingQueue = DispatchQueue.init(label: "com.insomniumlabs.PixioEngine.Preheat", attributes: [.concurrent])
     }
     
     public let image: CIImage
