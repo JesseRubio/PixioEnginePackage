@@ -1,6 +1,6 @@
 # PixioEnginePackage
 
-This is a small swift package for [photo-editor-luts-swiftui](https://github.com/j1mmyto9/photo-editor-luts-swiftui) project
+This is a small swift package for [pixio-editor-luts-swiftui] project
 
 
 ## Notes
